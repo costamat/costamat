@@ -19,7 +19,7 @@ Sou um estudante de back-end, tendo contato com a área de front-end. Atualmente
 - **Tecnologias utilizadas**: Wordpress, ERP Bling, HTML, CSS.
 - **Ferramentas**: Woocommerce, Elementor PRO, ShopEngine, Adobe Photoshop, Adobe Illustrator.
 
-## Demo
+### 🔍 Demo
 
 Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja online e explorar as coleções.
 
