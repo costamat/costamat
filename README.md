@@ -8,7 +8,6 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 - Sistemas Operacionais: Linux Ubunto, Windows.
 - Habilidades: Adobe Photoshop, Adobe Illustrator, WordPress.
 
-
 ## Sobre mim
 
 Sou um estudante de back-end, tendo contato com a área de front-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o sistema ERP até o front-end, design e identidade visual.
@@ -37,7 +36,6 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 - Aperfeiçoar a experiência do usuário em dispositivos móveis.
 - Expandir a marca para outras plataformas digitais.
 - Otimização de velocidade de carregamento.
-
 
 ## 📖 Cursos
 
