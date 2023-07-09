@@ -37,6 +37,14 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 - Expandir a marca para outras plataformas digitais.
 - Otimização de velocidade de carregamento.
 
+### 📖 Cursos
+
+Aqui estão alguns dos cursos que estou realizando atualmente para aprimorar minhas habilidades:
+
+- Curso Front-End Completo 2.0(https://cursos.dankicode.com/novo-front-end): Curso de Web Design.
+- Curso de Django Framework(https://django.pro.br): Django Framework do básico ao avançado.
+- Spokenglish - English Language(https://spokenglish.com.br/sobre-mim): Métodologia Callan.
+
 
 
 
