@@ -2,11 +2,11 @@ Olá, sou o Mateus Costa!
 
 Estudante de programação | Desenvolvedor Python | Aprendendo Django
 
-Linguagens: Python, HTML, CSS.
-Frameworks: Django.
-Banco de Dados: PostgreSQL.
-Sistemas Operacionais: Linux Ubunto, Windows.
-Habilidades: Adobe Photoshop, Adobe Illustrator, WordPress.
+- Linguagens: Python, HTML, CSS.
+- Frameworks: Django.
+- Banco de Dados: PostgreSQL.
+- Sistemas Operacionais: Linux Ubunto, Windows.
+- Habilidades: Adobe Photoshop, Adobe Illustrator, WordPress.
 
 ## Sobre mim
 
