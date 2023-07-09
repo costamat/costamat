@@ -37,7 +37,7 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 - Expandir a marca para outras plataformas digitais.
 - Otimização de velocidade de carregamento.
 
-### 📖 Cursos
+## 📖 Cursos
 
 Aqui estão alguns dos cursos que estou realizando atualmente para aprimorar minhas habilidades:
 
