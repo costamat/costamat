@@ -7,6 +7,7 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 - Banco de Dados: PostgreSQL.
 - Sistemas Operacionais: Linux Ubunto, Windows.
 - Habilidades: Adobe Photoshop, Adobe Illustrator, WordPress.
+- Linguas: Inglês intermediário, português nativo.
 
 ## Sobre mim
 
