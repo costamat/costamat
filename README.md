@@ -11,12 +11,12 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 
 ## Sobre mim
 
-Sou um estudante de back-end tendo contato prático com a área de front-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o sistema ERP até o front-end, design e identidade visual.
+Sou um estudante de back-end tendo contato prático com a área de front-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o ERP até o front-end, design e identidade visual.
 
 ### 💻 Projeto em Destaque
 
 - **Nome do Projeto**: Trippie Co.
-- **Descrição**: Este projeto consiste em criar um site completo para uma marca de roupas, incluindo a implementação do sistema ERP para gerenciamento de estoque, pedidos e faturamento, além do desenvolvimento do front-end e design do site.
+- **Descrição**: Este projeto consiste em criar um e-commerce para uma marca de roupas, incluindo a implementação do sistema ERP para gerenciamento de estoque, pedidos e faturamento, além do desenvolvimento do front-end e design do site.
 - **Tecnologias utilizadas**: Wordpress, ERP Bling, HTML, CSS.
 - **Ferramentas**: Woocommerce, Elementor PRO, ShopEngine, Adobe Photoshop, Adobe Illustrator.
 
@@ -26,7 +26,7 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 
 ### 🚀 Objetivos do Projeto
 
-- Configurar um sistema ERP eficiente para gerenciar as operações da marca de roupas.
+- Configurar um sistema ERP eficiente para gerenciar as operações do E-commerce.
 - Desenvolver um site atraente e responsivo, proporcionando uma ótima experiência ao usuário.
 - Aplicar habilidades de design e identidade visual para criar uma marca consistente e diferente.
 
@@ -36,7 +36,7 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 - Implementar o sistema de frete.
 - Aperfeiçoar a experiência do usuário em dispositivos móveis.
 - Expandir a marca para outras plataformas digitais.
-- Otimização de velocidade de carregamento.
+- Otimização da velocidade de carregamento.
 
 ## 📖 Cursos
 
