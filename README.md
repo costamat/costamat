@@ -5,7 +5,7 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 - Linguagens: Python, HTML, CSS.
 - Frameworks: Django.
 - Banco de Dados: PostgreSQL.
-- Sistemas Operacionais: Linux Ubunto, Windows.
+- Sistemas Operacionais: Linux Ubuntu, Windows.
 - Habilidades: Adobe Photoshop, Adobe Illustrator, WordPress.
 - Habilidades linguísticas: Inglês intermediário, português nativo.
 
