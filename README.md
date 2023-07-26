@@ -11,7 +11,7 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 
 ## Sobre mim
 
-Sou um estudante de back-end tendo contato prático com a área de front-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o ERP até o front-end, design e identidade visual.
+Sou um estudante de back-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o ERP até o design e identidade visual.
 
 ### 💻 Projeto em Destaque
 
