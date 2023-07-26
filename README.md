@@ -12,7 +12,7 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 ## Sobre mim
 
 Sou um estudante de back-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas abrangendo desde o ERP até o design e identidade visual.
-Atualmente estou estudando a ferramenta Figma para implementar em meu projeto principal, a ideia é desenvolver os layouts, solucionar problemas do Mobile, descobrir dores ao longo do aprendizado e então a aplicação.
+Atualmente estou estudando a ferramenta Figma para implementar no meu projeto principal, a ideia é desenvolver os layouts, solucionar problemas do Mobile, descobrir dores ao longo do aprendizado e então a aplicação.
 
 ### 💻 Projeto em Destaque
 
