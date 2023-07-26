@@ -11,7 +11,8 @@ Estudante de programação | Desenvolvedor Python | Aprendendo Django
 
 ## Sobre mim
 
-Sou um estudante de back-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas, abrangendo desde o ERP até o design e identidade visual.
+Sou um estudante de back-end. Atualmente, estou trabalhando em um projeto solo, desenvolvendo um site completo para uma marca de roupas abrangendo desde o ERP até o design e identidade visual.
+Atualmente estou estudando a ferramenta Figma para implementar em meu projeto principal, a ideia é desenvolver os layouts, solucionar problemas do Mobile, descobrir dores ao longo do aprendizado e então a aplicação.
 
 ### 💻 Projeto em Destaque
 
@@ -32,9 +33,9 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 
 ### 🌟 Próximos Passos
 
+- Aperfeiçoar a experiência do usuário em dispositivos móveis.
 - Implementar o sistema de pagamentos online.
 - Implementar o sistema de frete.
-- Aperfeiçoar a experiência do usuário em dispositivos móveis.
 - Expandir a marca para outras plataformas digitais.
 - Otimização da velocidade de carregamento.
 
@@ -42,12 +43,11 @@ Confira o site da Trippie Co.(https://trippie.com.br) para visualizar a loja onl
 
 Aqui estão alguns dos cursos que estou realizando atualmente para aprimorar minhas habilidades:
 
+- Curso de Figma(https://cursos.dankicode.com/curso-figma): Curso de Figma em desenvolvimento.
 - Curso de Django Web Framework e Django Rest Framework(https://www.udemy.com/course/curso-de-django-web-framework-com-python-html-e-css): Django Framework do básico ao avançado.
 - Curso Front-End Completo 2.0(https://cursos.dankicode.com/novo-front-end): Curso de Web Design.
 - Curso de Django Framework(https://django.pro.br).
 - Spokenglish - English Language(https://spokenglish.com.br/sobre-mim): Métodologia Callan.
-
-
 
 
 <!--
